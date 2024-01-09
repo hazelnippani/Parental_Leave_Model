@@ -3,6 +3,7 @@ Providing statistical insights on Parental Leave data to find correlations betwe
 Also finding correlation between average company's maternal vs paternal leave.
 
 Utilizes various libraries: numpy, pandas, matplotlib, scikit
+
 Planning to practice generating predictive model from this example.
 
 
