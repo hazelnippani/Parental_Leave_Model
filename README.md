@@ -1,5 +1,9 @@
 # Parental_Leave_Model
-
-Providing statistical insights on Parental Leave data to find correlations between industry and average leave (in months) for both motheres and fathers
+Providing statistical insights on Parental Leave data to find correlations between industry and average leave (in weeks) for both motheres and fathers.
+Also finding correlation between average company's maternal vs paternal leave.
 
 Utilizes various libraries: numpy, pandas, matplotlib, scikit
+
+
+Data credit: https://www.kaggle.com/datasets/shilongzhuang/things-we-do-for-family-some-bald-guy/data 
+
